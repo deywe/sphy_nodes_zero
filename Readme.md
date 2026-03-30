@@ -1,5 +1,6 @@
 # Harpia OS - Sphy Nodes Zero
 ### Auditor de Fase e Telemetria Orbital Enriquecida
+"A estabilidade do sistema é alcançada através da aplicação de um Tensor de Fase Quântica ($\mathcal{T}_{\phi}$). Este operador mapeia as flutuações gravitacionais em um domínio de frequência coerente, onde a instabilidade de Poincaré é neutralizada pela simetria da Proporção Áurea ($\phi$), transformando o caos dinâmico em uma série temporal determinística."
 
 Este repositório contém o ecossistema de simulação para a teoria de **Propulsão por Tencionamento Geométrico**. O sistema utiliza o motor **SPHY (Sovereign Phase Harmony)** para resolver o movimento de n-corpos através de ressonância harmônica, eliminando o caos clássico.
 
