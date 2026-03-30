@@ -40,7 +40,7 @@ O visualizador foi desenvolvido em **py5** (Processing para Python) para atuar c
 2. Certifique-se de que o arquivo `harpia_enriched_telemetry.parquet` esteja na mesma pasta.
 3. Execute o script:
    ```bash
-   python auditor_v2_1.py
+   python sphy_solar7_visualyzer.py
    ```
 
 ### Controles:
