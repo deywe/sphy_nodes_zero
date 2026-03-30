@@ -2,6 +2,8 @@
 ### Auditor de Fase e Telemetria Orbital Enriquecida
 "A estabilidade do sistema é alcançada através da aplicação de um Tensor de Fase Quântica ($\mathcal{T}_{\phi}$). Este operador mapeia as flutuações gravitacionais em um domínio de frequência coerente, onde a instabilidade de Poincaré é neutralizada pela simetria da Proporção Áurea ($\phi$), transformando o caos dinâmico em uma série temporal determinística."
 
+Download do dataset: https://drive.google.com/file/d/1eMUz3OeShH1rkp_wI0PFtRBfFlTRTxXF/view?usp=sharing
+
 Este repositório contém o ecossistema de simulação para a teoria de **Propulsão por Tencionamento Geométrico**. O sistema utiliza o motor **SPHY (Sovereign Phase Harmony)** para resolver o movimento de n-corpos através de ressonância harmônica, eliminando o caos clássico.
 
 ## 🚀 A Solução do Enigma de Poincaré
